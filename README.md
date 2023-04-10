@@ -21,7 +21,7 @@ client.on('ready', () => {
 client.login(TOKEN);
 ```
 
-This Code is from [this tutorial](https://youtu.be/i36SIDNTQoM). If you have any doubts regarding this, feel free to contact me through my [Discord Server](https://dsc.gg/phantom).
+
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
 
@@ -33,4 +33,4 @@ Use [uptimerobot.com](https://uptimerobot.com) to make your repl online 24/7.
 
 ----
 
-> Gamecord © 2021 by SealedSaucer is licensed under Attribution 4.0 International 
+> Gamecord 
